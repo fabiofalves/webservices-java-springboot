@@ -7,13 +7,13 @@ Este projeto é um sistema de pedidos que permite o usuário se auto cadastrar, 
 O projeto foi desenvolvido como parte do curso de Java da Udemy ministrado pelo professor Nélio Alves, onde pudemos colocar em prática os aprendizados em linguagem java e criação de APIs.
 
 ## Consulta de usuário
-![Users](![](C:\Users\figue\OneDrive\Área de Trabalho\users1.png))
+![Users](https://github.com/fabiofalves/webservices-java-springboot/blob/main/images/users1.png)
 
 ## Consulta de pedidos
-![Orders](![](C:\Users\figue\OneDrive\Área de Trabalho\orders.png))
+![Orders](https://github.com/fabiofalves/webservices-java-springboot/blob/main/images/orders.png)
 
 ## Modelo conceitual
-![Modelo Conceitual](![](C:\Users\figue\OneDrive\Área de Trabalho\modeloconceitual.png))
+![Modelo Conceitual](https://github.com/fabiofalves/webservices-java-springboot/blob/main/images/modeloconceitual.png)
 
 # Tecnologias utilizadas
 - Java
@@ -24,7 +24,7 @@ O projeto foi desenvolvido como parte do curso de Java da Udemy ministrado pelo 
 
 # Como executar o projeto
 
-Pré-requisitos: Ter o Java 21 istalado no computador
+Pré-requisitos: Ter o Java 21 instalado no computador
 
 ```bash
 # clonar repositório
