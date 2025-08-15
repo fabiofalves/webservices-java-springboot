@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto é um sistema de pedidos que permite o usuário se auto cadastrar, deletar, atualizar e consultar seus dados. Além disso o sistema permite consultar os pedidos associados ao usuário, que retorna informações como data, status, detalhes do produto, subtotal e total da compra.
+Este projeto é um serviço web que permite cadastrar, deletar, atualizar e consultar dados no banco. O sistema permite consultar os pedidos, produtos e usuários. Quando um pedido é consultado, o sistema retorna diversas informações como detalhes do pedido, dados do usuario associado a esse pedido, detalhes do produto, valor total, subtotal e status do pedido.
 O projeto foi desenvolvido como parte do curso de Java da Udemy ministrado pelo professor Nélio Alves, onde pudemos colocar em prática os aprendizados em linguagem java e criação de APIs.
 
 ## Consulta de usuário
