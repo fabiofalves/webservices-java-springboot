@@ -12,7 +12,7 @@ O projeto foi desenvolvido como parte do curso de Java da Udemy ministrado pelo 
 ## Consulta de pedidos
 ![Orders](https://github.com/fabiofalves/webservices-java-springboot/blob/main/images/orders.png)
 
-## Modelo conceitual
+## Modelo de domínio
 ![Modelo Conceitual](https://github.com/fabiofalves/webservices-java-springboot/blob/main/images/modeloconceitual.png)
 
 # Tecnologias utilizadas
